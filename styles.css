@@ -1,0 +1,14 @@
+.techLogo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 156px;
+}
+.wrap{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.link{
+    height: 56px;
+}
